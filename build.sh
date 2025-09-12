@@ -13,4 +13,4 @@ chmod +x gradlew
 # Copy the built artifact to the target directory
 # Replace `app.jar` with the actual name and path of your built JAR file
 # This example assumes the JAR is in `build/libs`
-cp build/libs/app.jar ../../app.jar
+cp build/libs/catalog-service-0.0.1-SNAPSHOT.jar ../../app.jar
